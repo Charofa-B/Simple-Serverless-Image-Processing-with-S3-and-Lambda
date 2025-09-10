@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "my-example-to-upload-origin-images"
+        },
+        "object": {
+          "key": "Test123.jpg"
+        }
+      }
+    }
+  ]
+}
